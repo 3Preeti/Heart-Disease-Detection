@@ -41,5 +41,7 @@ Using advanced classification algorithms, the system identifies patterns and ris
   python -m venv venv
   source venv/bin/activate #on windows use `venv\scripts\activate`
 
+3. Install Required Packages
 
-
+```bash
+pip install -r requirements.txt

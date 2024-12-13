@@ -33,4 +33,13 @@ Using advanced classification algorithms, the system identifies patterns and ris
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/heart-disease-detection.git
+   git clone <repository-url>
+   cd <repository-directorty>
+
+2.Create a Virtual Environment (Optional but recommended)
+  ```bash
+  python -m venv venv
+  source venv/bin/activate #on windows use `venv\scripts\activate`
+
+
+
